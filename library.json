@@ -1,0 +1,14 @@
+{
+  "name": "LDRSensor",
+  "keywords": "sensor, rf, light, ldr",
+  "description": "LDR Sensor - mySensor",
+  "include": "libraries/LDRSensor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jmkhael/LDRSensor.git"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
